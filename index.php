@@ -7,4 +7,7 @@
 
 	echo "Au revoir";
 ?>
+<<<<<<< HEAD
 >>>>>>> Palanore/master
+=======
+>>>>>>> refs/remotes/origin/master
